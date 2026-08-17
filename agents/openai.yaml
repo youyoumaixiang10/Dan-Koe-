@@ -1,0 +1,15 @@
+interface:
+  display_name: Dan Koe 思想应用
+  short_description: 用可追溯证据应用 Dan Koe 的成长、商业与内容框架
+  default_prompt: Use $apply-dan-koe-frameworks to analyze my situation with Dan Koe’s
+    frameworks while separating evidence, inference, and limitations.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
+
